@@ -28,14 +28,14 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
-				<username>Akhi3192</username>
-				<password>Asian@702</password>
-				<environment>Sandbox</environment>
-				<muleVersion>4.1.4</muleVersion>
-				<workers>1</workers>
-				<workerType>Micro</workerType>
-				<applicationName>world-timezone-service</applicationName>
-				</cloudHubDeployment>
+					<username>Akhi3192</username>	
+					<environment>Sandbox</environment>
+					<muleVersion>4.4.2</muleVersion>
+					<workers>1</workers>
+					<workerType>Micro</workerType>
+					<password>Asian@702</password>
+					<applicationName>world-timezone-service</applicationName>
+					</cloudHubDeployment>
 				</configuration>
 			</plugin>
 		</plugins>
