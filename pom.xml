@@ -35,7 +35,8 @@
 					<workerType>Micro</workerType>
 					<password>Asian@702</password>
 					<applicationName>world-timezone-serviceApp</applicationName>
-					</cloudHubDeployment>
+					<objectStoreV2>true</objectStoreV2>
+				</cloudHubDeployment>
 				</configuration>
 			</plugin>
 		</plugins>
